@@ -13,4 +13,5 @@ The model accuracy is around 80%.
 * glob
 * torchvision
 * PIL
+* cv2
 
