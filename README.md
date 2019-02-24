@@ -15,3 +15,10 @@ The model accuracy is around 80%.
 * PIL
 * cv2
 
+## Files Included in this repository
+
+* dog_app.py (This is the training script)
+* haarcascade_...xml (This is downloaded from the internet to recognize human face)
+
+## Usage
+Try to download all the files in the same directory before using this script for testing your own images.
